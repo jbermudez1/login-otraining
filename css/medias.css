@@ -1,0 +1,30 @@
+@media (min-width: 768px) {
+	.submenu {
+	position: absolute;
+	color: white;
+	z-index: 2;
+	top: 0px;
+	right: 0px;
+	background-color: #163c5f;
+	width: 80px;
+	height: 88px;
+}
+.submenu i {
+margin-top: 20px;
+margin-left: 20px;
+}
+.logo {
+	/*padding: 5px;*/
+	text-align: center;
+}
+.logo img {
+width: auto;
+
+}
+}
+@media (min-height: 690px){
+
+	body, #contenido {
+height: 100%;
+}
+}
